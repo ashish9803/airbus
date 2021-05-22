@@ -55,7 +55,7 @@
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
         android:fontFamily="@font/almendra_bold"
-        android:text="This is an android application widget which is built for the users to resolve any using chatbot and report any problem using bug report feature."
+        android:text="This is an android application widget which is built for the users to resolve any issue using chatbot and report any problem using its bug report feature."
         android:textSize="20dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
